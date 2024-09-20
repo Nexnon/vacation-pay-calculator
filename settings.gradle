@@ -1,1 +1,4 @@
 rootProject.name = 'vacation-pay-calculator'
+include 'calculator'
+include 'server'
+
