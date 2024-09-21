@@ -8,6 +8,6 @@ GET "/calculacte"
 
 ![Позитивная проверка](images/PositiveCalculate.png)
 
-![Позитивная проверка 2](images/PositiveCalculate.png)
+![Позитивная проверка 2](images/PositiveCalculate2.png)
 
-![Негативная проверка](images/PositiveCalculate.png)
+![Негативная проверка](images/NegativeCalculate.png)
